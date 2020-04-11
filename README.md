@@ -4,6 +4,6 @@ The dataset is available at this <a href=https://www.kaggle.com/dgomonov/new-yor
 
 The aim of this project is to analyse the dataset and answer these questions :-
 
-   1.Which hosts are the busiest and why?
-   2.What areas have more traffic than others and why is that the case?
-   3.Are there any relationships between prices and number of reviews for a given listing?
+    1.Which hosts are the busiest and why?
+    2.What areas have more traffic than others and why is that the case?
+    3.Are there any relationships between prices and number of reviews for a given listing?
